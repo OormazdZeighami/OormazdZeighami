@@ -33,9 +33,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oormazdam&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OormazdZeighami&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oormazdam&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OormazdZeighami&layout=compact&theme=radical" />
 </p>
 
 ---
