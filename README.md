@@ -3,18 +3,18 @@
   <img src="https://raw.githubusercontent.com/oormazdam/assets/main/profile_banner.svg" alt="Welcome Banner" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm a Python Developer!</h1>
-<h3 align="center">Passionate about backend, exploring the front-end world 🚀</h3>
+<h1 align="center">Hi 👋, I'm a Python Developer!</h1>
+<h3 align="center">Passionate about Backend 🚀</h3>
 
 ---
 
 ### 💻 About Me
 
-- 🐍 I’m a Python developer with a growing passion for web technologies  
-- 🎨 Currently learning more about **Front-End**  
+- 🐍 I’m a Python developer 
+- 🎨 Currently learning more about **Backend**  
 - 🔧 I love building tools that solve real-world problems  
 - 💬 Ask me about Python, Flask, Git, or how to start learning to code  
-- 🌐 Constantly improving my front-end skills  
+- 🌐 Constantly improving my programming skills
 - 📫 How to reach me: **oormazdighami@gmail.com**
 
 ---
@@ -38,4 +38,4 @@
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for being here!
